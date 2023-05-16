@@ -1,5 +1,5 @@
 # Book-Wizard
-Turkcell Bootcamp Proje-2
+## Turkcell Bootcamp Proje-2
 Bu projemizde Turkcell Geleceği Yazanlar Bootcamp için verilen ikinci ödevin dosyaları bulunmaktadır.Bu ödevde HTML,CSS(SCSS kullanılarak),Bootstrap ve Javascript üzerindeki yetkinliklerimiz test edilmiştir.
 ---
 # Proje İçin Gerekenler
